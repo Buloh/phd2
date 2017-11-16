@@ -474,6 +474,11 @@
 #define DEVICETYPE_16803        906
 
 /**
+ * Type define for 16803 */
+#define DEVICETYPE_09000        930
+
+
+/**
  * Type define for 695A*/
 #define DEVICETYPE_695A         916
 
@@ -505,6 +510,8 @@
 #define DEVICETYPE_QHY45GX      9011
 
 #define DEVICETYPE_QHY10_FOCUS  9012
+
+
 
 /**
  * Type define for UNKNOW */
