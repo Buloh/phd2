@@ -5833,7 +5833,7 @@ msgstr "Měřítko"
 
 #: myframe.cpp:3141 profile_wizard.cpp:316
 msgid "Auto restore calibration"
-msgstr "Kalibrace automatického obnovení"
+msgstr "Automatické obnovování kalibrace"
 
 #: myframe.cpp:3142
 msgid ""
